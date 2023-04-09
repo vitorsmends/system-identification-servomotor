@@ -22,5 +22,5 @@ System identification for servo motors using toolbox of MATLAB
 - GitHub: https://github.com/GabrielCalmon
 - Lattes: http://lattes.cnpq.br/3714599132684846
 
-** Emanuel Benínio Cajueiro - Advisor**
+**Emanuel Benínio Cajueiro - Advisor**
 - Email: emanuel.cajueiro@fieb.org.br
